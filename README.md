@@ -22,7 +22,10 @@ MDB_PASSWORD=<var>PASSWORD</var>
 
 3. If you're using Python: Run `pipenv install` to install the necessary packages. Run `pipenv shell` to launch the virtual environment and get access to those packages.
 
-4. In the shell, run `do python -m ipykernel install --user --name=scraper-kernel`
+4. In the shell, run do `python -m ipykernel install --user --name=scraper-kernel`
 
-#Usage
+5. Open up jupyter notebook and change the kernel
+
+## Usage
+
 Open up jupyter notebook and test out the scrapers!
