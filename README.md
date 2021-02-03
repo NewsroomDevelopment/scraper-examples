@@ -2,6 +2,10 @@
 
 This is a guide for getting started with Vergil, Directory, and Handshake Data
 
+[Directory Scraper](https://github.com/graphicsdesk/directory-scraper)
+[Vergil Scraper](https://github.com/graphicsdesk/vergil-scraper)
+[Handshake Scraper](https://github.com/graphicsdesk/lionshare-scraper)
+
 ## Setup
 
 1. Clone the repository and move into it:
