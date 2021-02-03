@@ -1,10 +1,10 @@
 # Scraper Data Examples
 
-This is a guide for getting started with Vergil, Directory, and Handshake Data
+This is a guide for getting started with Vergil, Directory, and Handshake Data. The links to the repos of the scrapers can be found below.
 
-[Directory Scraper](https://github.com/graphicsdesk/directory-scraper)   
-[Vergil Scraper](https://github.com/graphicsdesk/vergil-scraper)  
-[Handshake Scraper](https://github.com/graphicsdesk/lionshare-scraper)  
+* [Directory Scraper](https://github.com/graphicsdesk/directory-scraper)   
+* [Vergil Scraper](https://github.com/graphicsdesk/vergil-scraper)  
+* [Handshake Scraper](https://github.com/graphicsdesk/lionshare-scraper)  
 
 ## Setup
 
