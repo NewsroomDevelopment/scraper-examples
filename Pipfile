@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+pymongo = {extras = ["srv"],version = "*"}
+python-dotenv = "*"
+ipykernel = "*"
+boto3 = "*"
+jupyter = "*"
+
+[requires]
+python_version = "3.8"
