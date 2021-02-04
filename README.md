@@ -24,11 +24,13 @@ MDB_USERNAME=<var>USERNAME</var>
 MDB_PASSWORD=<var>PASSWORD</var>
 </pre>
 
-3. If you're using Python: Run `pipenv install` to install the necessary packages. Run `pipenv shell` to launch the virtual environment and get access to those packages. If you do not have `pipenv` do `pip install pipenv`. If you do not have `pip` look it up.
+3. Follow [this tutorial](https://github.com/graphicsdesk/graphicsdesk.github.io/wiki/AWS-Setup) to set up the aws credentials needed for some of the scrapers. 
 
-4. In the shell, run do `python -m ipykernel install --user --name=scraper-kernel`
+4. If you're using Python: Run `pipenv install` to install the necessary packages. Run `pipenv shell` to launch the virtual environment and get access to those packages. If you do not have `pipenv` do `pip install pipenv`. If you do not have `pip` look it up.
 
-5. Open up jupyter notebook and change the kernel by going to kernel -> change kernel -> scraper-kernel.
+5. In the shell, run do `python -m ipykernel install --user --name=scraper-kernel`
+
+6. Open up jupyter notebook and change the kernel by going to kernel -> change kernel -> scraper-kernel.
 
 ## Usage
 
